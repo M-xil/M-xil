@@ -1,8 +1,5 @@
-
----
-<!-- 
-哎呀！被发现了(*/ω＼*)～
-<h1 align="center"> Hi 👋, I'm 马响亮 (maxiangliang) </h1>
+ 哎呀！被发现了(*/ω＼*)～
+<h1 align="center"> Hi 👋, I'm maxiangliang </h1>
 <h3 align="center"> A student from China who is very interested in learning programming and artificial intelligence. </h3>
 <h3 align="center"> WOw：I got MVP again today（🤪） </h3>
 
@@ -15,7 +12,7 @@
 ---
 
 ## 👋 **About Me**
-- 🎓 **长春工业大学 计算机科学与技术**（25届）
+- 🎓 **清华大学医学部-北京协和医学院**：电子信息**（26届硕士研究生）
 - 🤖 **研究方向**：机器学习、人工智能、医学图像分析
 - 🔬 **当前研究**：目标计数-AI细胞课题（XXX校企合作项目）
 - 🏆 **村中炼丹的希望**，曾获多个国家级科技竞赛奖项
@@ -75,12 +72,9 @@
 ## 📊 **GitHub Stats**
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZJhorseloudly&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ZJhorseloudly&show_icons=true&theme=radical)
---- -->
 
-<!-- 
+
 ## 🌍 **Connect with Me**
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiangtao-zha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiangtaozha@163.com)
-
---- -->
 
