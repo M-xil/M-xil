@@ -5,7 +5,7 @@
 
 ---
 
-### **✨ ZJH **
+### **✨ ZJH**
 🚀 **计算机科学与技术 | 大数据分析与应用 | 人工智能 | 医学图像分析**  
 🎯 **专注于机器学习、人工智能、医学图像分析**  
 -  ⌈ E-mail ⌋：`echo 'MTgyNDg2MTk3MDdAMTYzLmNvbQ' | base64 -d`
@@ -18,6 +18,6 @@
 - **软件开发**：`Docker` `Flask`，`vue3`；熟悉`Diango`，`Fastapi`等常用框架
 
 ## 🌍 **Connect with Me**
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiangtao-zha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiangtaozha@163.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-xil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](2710316056@qq.com)
 
