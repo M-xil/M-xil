@@ -17,11 +17,6 @@
 - **计算机视觉**：`UNet` `Pytorch`
 - **软件开发**：`Docker` `Flask`，`vue3`；熟悉`Diango`，`Fastapi`等常用框架
 
-## 📊 **GitHub Stats**
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZJhorseloudly&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ZJhorseloudly&show_icons=true&theme=radical)
-
-
 ## 🌍 **Connect with Me**
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiangtao-zha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiangtaozha@163.com)
